@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 255, 165); /* Fondo amarillo claro */
+    font-family: Verdana, Arial, sans-serif; /* Formato de letra */
+    text-align: center; /* Centrar contenido */
+    margin: 0;
+    padding: 0; /* Corregido */
+}
+
+.image {
+    border: 5px solid green;
+    border-radius: 10px;
+    height: 400px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
