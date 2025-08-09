@@ -5,6 +5,9 @@ body {
     margin: 0;
     padding: 0; /* Corregido */
 }
+h1,h2,p{
+    font-family:"Playfair+Display" , serif ;
+}
 
 .image {
     border: 5px solid green;
