@@ -4,13 +4,10 @@ html{
 }
 
 body {
-    font-family: Verdana, Arial, sans-serif; /* Formato de letra */
+    font-family:"Playfair+Display" , serif  ; /* Formato de letra */
     text-align: center; /* Centrar contenido */
     margin: 0;
     padding: 0; /* Corregido */
-}
-h1,h2,p{
-    font-family:"Playfair+Display" , serif ;
 }
 
 .image {
